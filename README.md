@@ -9,7 +9,7 @@
 **👉 [Ver Presentación - Historia de Tendencias](https://docs.google.com/presentation/d/1q5XoV0kbWnjXAD-OZTQHII9s1RDrrQWmnYbmfxsnLsY/edit?usp=sharing)**
 
 ### 🔗 Dashboard en Tableau Public
-- **Dashboard 1:** [Ver Dashboard Interactivo en Tableau Public](https://public.tableau.com/shared/9ZWWFDF5XF?:display_count=n&:origin=viz_share_link)
+- **Dashboard 1:** [Ver Dashboard Interactivo en Tableau Public](https://public.tableau.com/shared/9ZWFFD5XF?:display_count=n&:origin=viz_share_link)
 
 ### 📸 Vista Previa
 ![Dashboard](https://github.com/user-attachments/assets/d2d6ad01-3228-47a9-bd2e-2859934caf61)
