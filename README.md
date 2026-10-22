@@ -48,7 +48,7 @@ Representa 60% del trending diario con 400-600 videos/día. Es la ÚNICA categor
 ---
 
 ### 📈 Visualización Principal
-[DEJA TU IMAGEN ACTUAL AQUÍ - NO LA BORRES]
+![grafica](imagen1.png)
 *Imagen de referencia*
 
 ---
